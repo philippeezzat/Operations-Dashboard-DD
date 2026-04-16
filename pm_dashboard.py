@@ -83,7 +83,7 @@ PROJECTS = {
         "color":   "#8B5CF6",
     },
     "P006": {
-        "name":    "Call Center — Zeta",
+        "name":    "Call Center — Test",
         "manager": "Layla",
         "pin":     "1006",
         "type":    "callcenter",
