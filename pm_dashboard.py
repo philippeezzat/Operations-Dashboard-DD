@@ -44,8 +44,8 @@ PM_NAME = "Project Manager"
 # answer_sec = speed-of-answer threshold (informational label only)
 PROJECTS = {
     "P001": {
-        "name":       "Call Center — Alpha",
-        "manager":    "Ahmed",
+        "name":       "Call Center — GPSSA",
+        "manager":    "Yehia",
         "pin":        "1001",
         "type":       "callcenter",
         "color":      "#4F46E5",
@@ -53,8 +53,8 @@ PROJECTS = {
         "sla_sec":    10,      # within 10s  (label only)
     },
     "P002": {
-        "name":       "Call Center — Beta",
-        "manager":    "Sara",
+        "name":       "Call Center — NAFIS",
+        "manager":    "AHMED",
         "pin":        "1002",
         "type":       "callcenter",
         "color":      "#0EA5E9",
@@ -62,8 +62,8 @@ PROJECTS = {
         "sla_sec":    20,
     },
     "P003": {
-        "name":       "Call Center — Gamma",
-        "manager":    "Khalid",
+        "name":       "Call Center — Fidelity",
+        "manager":    "Ephraim",
         "pin":        "1003",
         "type":       "callcenter",
         "color":      "#10B981",
@@ -71,8 +71,8 @@ PROJECTS = {
         "sla_sec":    20,
     },
     "P004": {
-        "name":       "Call Center — Delta",
-        "manager":    "Noura",
+        "name":       "Call Center — Parkin",
+        "manager":    "Assim",
         "pin":        "1004",
         "type":       "callcenter",
         "color":      "#F59E0B",
@@ -80,8 +80,8 @@ PROJECTS = {
         "sla_sec":    30,
     },
     "P005": {
-        "name":       "Call Center — Epsilon",
-        "manager":    "Omar",
+        "name":       "Call Center — DREC",
+        "manager":    "Khatib",
         "pin":        "1005",
         "type":       "callcenter",
         "color":      "#8B5CF6",
@@ -90,7 +90,7 @@ PROJECTS = {
     },
     "P006": {
         "name":       "Call Center — Zeta",
-        "manager":    "Layla",
+        "manager":    "Test",
         "pin":        "1006",
         "type":       "callcenter",
         "color":      "#EC4899",
@@ -98,8 +98,8 @@ PROJECTS = {
         "sla_sec":    20,
     },
     "P007": {
-        "name":       "Insurance — Renewals & New Business",
-        "manager":    "Tariq",
+        "name":       "ADNIC — Renewals & New Business",
+        "manager":    "Khatib",
         "pin":        "1007",
         "type":       "insurance",
         "color":      "#EF4444",
